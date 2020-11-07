@@ -1,2 +1,2 @@
 print("GG")
-input("sasdsdf")
+input("ssdf")
