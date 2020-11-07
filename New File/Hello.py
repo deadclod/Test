@@ -1,2 +1,2 @@
 print("GG")
-input("sf")
+input("sfdadsfsadfsa")
